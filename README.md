@@ -1,6 +1,17 @@
 # N.P.M. (Nginx PHP MariaDB)
 This repository contains a lightweight docker container setup for PHP applications development.
 
+## VERY IMPORTANT NOTE
+\########################################################################
+
+This repository has moved to **CODEBERG.ORG**.
+The repository here on Github will **NOT RECEIVE ANY UPDATES ANYMORE**.
+The repository here on Github is now **ARCHIVED AND READ-ONLY**.
+
+**NEW REPOSITORY URL:** [https://codeberg.org/SHWorX/npm](https://codeberg.org/SHWorX/npm)
+
+\########################################################################
+
 After executing `docker compose up -d`, 2 containers will be created:
 * `npm-webserver-1` (size: approx. 132 MB)
 * `npm-maria-1` (size: approx: 407 MB)
